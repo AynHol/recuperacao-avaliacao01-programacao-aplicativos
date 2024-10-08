@@ -1,5 +1,5 @@
 
-# Atividade Avaliativa I - Prática
+# Recuperação/Segunda Chamada Avaliação I  - Prática
 
 - Curso - Desenvolvimento de Sistemas
 - Unidade Curricular - Programação de Aplicativos
